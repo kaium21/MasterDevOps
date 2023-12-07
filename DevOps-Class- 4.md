@@ -5,9 +5,8 @@
         ssh dadmin@192.168.0.120
 
 ### Display all users.
-
-        cat /etc/passwd
-        `$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
+`cat /etc/passwd`
+       
 
         -Sample Output : 
         dadmin:x:1000:1000:DevOps Admin,,,:/home/dadmin:/bin/bash
