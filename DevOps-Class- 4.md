@@ -6,9 +6,9 @@
 
 ### Display all users.
 
-        `cat /etc/passwd`
+        cat /etc/passwd`
 
-        Sample Output : 
+        -Sample Output : 
         dadmin:x:1000:1000:DevOps Admin,,,:/home/dadmin:/bin/bash
         root:x:0:0:root:/root:/bin/bash */
 
