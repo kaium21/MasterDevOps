@@ -15,7 +15,9 @@
         *Note: 3rd position is user id, 4th position is group id. 0-999 are used for system generated user for running any process or services . By default, root (Super User) user id and group id are zero. From 1000, new users id will be created *\
 
 * Create a user.\
+  
         `adduser taif`\
+  
         *output : -bash: adduser: command not found\
 
         `sudo adduser taif`\
