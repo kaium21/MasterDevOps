@@ -6,7 +6,8 @@
 
 ### Display all users.
 
-        cat /etc/passwd`
+        cat /etc/passwd
+        `$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
 
         -Sample Output : 
         dadmin:x:1000:1000:DevOps Admin,,,:/home/dadmin:/bin/bash
