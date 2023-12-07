@@ -10,7 +10,7 @@
 
        * Sample Output : 
         dadmin:x:1000:1000:DevOps Admin,,,:/home/dadmin:/bin/bash
-        root:x:0:0:root:/root:/bin/bash * \
+        root:x:0:0:root:/root:/bin/bash */
 
         * Note: 3rd position is user id, 4th position is group id. 0-999 are used for system generated user for running any process or services . By default, root (Super User) user id and group id are zero. From 1000, new users id will be created *\
 
