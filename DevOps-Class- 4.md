@@ -2,7 +2,7 @@
 
 * First login to server through SSH.
 
-        `ssh dadmin@192.168.0.120`
+        ssh dadmin@192.168.0.120
 
 * Display all users.
 
