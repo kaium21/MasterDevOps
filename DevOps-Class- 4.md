@@ -1,10 +1,10 @@
 ## DevOps Linux Class 4 : User and Group Management
 
-* First login to server through SSH.
+### First login to server through SSH.
 
         ssh dadmin@192.168.0.120
 
-* Display all users.
+### Display all users.
 
           cat /etc/passwd
 
