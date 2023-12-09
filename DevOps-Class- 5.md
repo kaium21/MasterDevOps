@@ -1,4 +1,4 @@
-## DevOps Linux Class 4 : IP and network Management
+## DevOps Linux Class 5 : IP and network Management
 
 * Checked net-tools
 sudo apt install net-tools
