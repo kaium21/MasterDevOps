@@ -1,9 +1,9 @@
 ## DevOps Linux Class 5 : IP and network Management
 
 * Checked net-tools
-  ```
-  sudo apt install net-tools
-  sudo apt reinstall net-tools
+```
+sudo apt install net-tools
+sudo apt reinstall net-tools
 ```
 #Setting a Static IP in Ubuntu using Netplan
 
